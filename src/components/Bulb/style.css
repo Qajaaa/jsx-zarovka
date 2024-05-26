@@ -1,0 +1,11 @@
+.bulb {
+    width: 250px;
+    height: 450px;
+    background-size: contain;
+    background-image: url("src/img/bulb-off.png");
+    background-repeat: no-repeat;
+  }
+
+  .bulb--on {
+    background-image: url("src/img/bulb-on.png");
+  }
